@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:CookieStandDbContextConnection"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
